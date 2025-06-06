@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Data science
+- ⚡ Fun fact: ...
 <!--
 **Binoy2304/Binoy2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
